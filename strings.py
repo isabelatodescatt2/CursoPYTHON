@@ -1,5 +1,5 @@
-nome1 = 'bela'
-nome2 = "polera"
+nome1 = 'cleubis'
+nome2 = "lore"
 nome_casalzinho = nome1 + " " + "<3" + " " + nome2
 
 nome_casalzinho2 = nome_casalzinho.title()

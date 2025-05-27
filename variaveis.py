@@ -1,7 +1,7 @@
 # Variáveis em Python
 
 # string
-string = "Oi polera bobao"
+string = "Oi bobao"
 print(type(string))
 
 # inteiro
